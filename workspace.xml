@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f7d1f076-49b3-47b1-b5ad-f04b645fc3ba" name="更改" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectId" id="2vkk3q8yk1wrJaRRBIf9O0JFCeG" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/develop/IDEA/EquipmentSystem",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "project.propCompiler",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="src" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\develop\IDEA\untitled1\src" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="User" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="User" />
+      <module name="EquipmentSystem" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="EquipmentSystem" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="EquipmentSystem" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="应用程序.User" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="f7d1f076-49b3-47b1-b5ad-f04b645fc3ba" name="更改" comment="" />
+      <created>1744696263195</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1744696263195</updated>
+      <workItem from="1744696264474" duration="2399000" />
+      <workItem from="1744698795609" duration="96000" />
+      <workItem from="1744698932507" duration="254000" />
+      <workItem from="1744699215219" duration="1438000" />
+      <workItem from="1744701130560" duration="646000" />
+      <workItem from="1744701793677" duration="3076000" />
+      <workItem from="1744704979124" duration="975000" />
+      <workItem from="1744706149112" duration="68000" />
+      <workItem from="1744706434123" duration="134000" />
+      <workItem from="1744706587955" duration="899000" />
+      <workItem from="1744707519928" duration="1002000" />
+      <workItem from="1744761713625" duration="306000" />
+      <workItem from="1744762028232" duration="3188000" />
+      <workItem from="1744765256516" duration="889000" />
+      <workItem from="1744766710902" duration="228000" />
+      <workItem from="1744766985868" duration="243000" />
+      <workItem from="1744767332198" duration="580000" />
+      <workItem from="1744768028897" duration="286000" />
+      <workItem from="1744768355928" duration="388000" />
+      <workItem from="1744768783694" duration="1529000" />
+      <workItem from="1744770374041" duration="8441000" />
+      <workItem from="1744780492160" duration="460000" />
+      <workItem from="1744781007287" duration="801000" />
+      <workItem from="1744781829340" duration="24895000" />
+      <workItem from="1744870356237" duration="15000" />
+      <workItem from="1744870396451" duration="14229000" />
+      <workItem from="1744940171098" duration="10384000" />
+      <workItem from="1744955780000" duration="1112000" />
+      <workItem from="1744957032348" duration="390000" />
+      <workItem from="1744957489997" duration="8309000" />
+      <workItem from="1745145911149" duration="2568000" />
+      <workItem from="1745148880841" duration="15459000" />
+      <workItem from="1745217109334" duration="33854000" />
+      <workItem from="1745549243627" duration="183000" />
+      <workItem from="1745549431034" duration="29653000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
